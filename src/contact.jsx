@@ -15,6 +15,7 @@ function ContactForm() {
                     <p className="para para2">Contact us for a quote , help to join the them.</p>
                     <input type="text" className="input" placeholder="your name" />
                     <input type="text" className="input" placeholder="your email" />
+                    <input type="text" className="input" placeholder="Your Mobile Number" />
                     <input type="text" className="input" placeholder="your Subject" />
                     <textarea className="input" cols="30" rows="5" placeholder="Your message..."></textarea>
                     <input type="submit" className="input submit" value="Send Message" />
